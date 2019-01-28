@@ -1,7 +1,7 @@
 {
-  "name": "reacttooling",
+  "name": "comeragh",
   "version": "0.1.0",
-  "description": "How to set up react tooling",
+  "description": "Comeragh solutions",
   "main": "index.js",
   "scripts": {
     "build": "webpack  --config webpack.config.prod.js",
@@ -18,14 +18,6 @@
   },
   "author": "Joseph Shanahan",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jmshanahan/react-boilerplate.git"
-  },
-  "bugs": {
-    "url": "https://github.com/jmshanahan/react-boilerplate/issues"
-  },
-  "homepage": "https://github.com/jmshanahan/react-boilerplate#readme",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.2.2",
@@ -60,5 +52,14 @@
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-hot-loader": "^4.6.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmshanahan/comeragh.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/jmshanahan/comeragh/issues"
+  },
+  "homepage": "https://github.com/jmshanahan/comeragh#readme"
 }
